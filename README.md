@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/plgogoi/MyProject/_apis/build/status/PlabanGogoi.FirstPipeline?branchName=master)](https://dev.azure.com/plgogoi/MyProject/_build/latest?definitionId=1&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
